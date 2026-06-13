@@ -975,7 +975,7 @@ textarea {
   object-fit: contain;
   object-position: left center;
   margin-bottom: 16px;
-  filter: brightness(1.35);
+  filter: brightness(100);
 }
 
 .site-footer h2 {

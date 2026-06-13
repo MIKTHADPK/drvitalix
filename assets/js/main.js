@@ -143,7 +143,7 @@ const initForms = () => {
 
         const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
         if (status) {
-          status.textContent = "Google Sheet is not connected yet. Opening WhatsApp with your request.";
+          status.textContent = "Server is not connected yet. Opening WhatsApp with your request.";
         }
         window.open(whatsappUrl, "_blank", "noopener,noreferrer");
       } catch (error) {

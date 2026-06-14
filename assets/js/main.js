@@ -1,4 +1,4 @@
-const GOOGLE_SHEETS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbxMRd-DywJI7MhCVXzIBkS-pN2qnjnBjYu_T7tqz9cVFUIjlSU0tEnluXlozXWyIiMX/exec";
+const GOOGLE_SHEETS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbweG7W8tMIbw-jjvfSiDuigfsglz-sn9pkLATzP2QGXBLF8NEUOzPTTanjiLSzKc4Of/exec";
 const WHATSAPP_NUMBER = "919605524749";
 
 const initIcons = () => {
